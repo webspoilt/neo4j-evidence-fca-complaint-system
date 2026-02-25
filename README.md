@@ -49,3 +49,7 @@ graph TD
 
 ## 🤝 Contributing
 Contributions mapping new typologies (e.g., synthetic identity fraud patterns) via Cypher queries are welcome.
+
+## ?? Future Roadmap & Enhancements
+- **LLM Graph Navigator**
+- **Temporal graph modeling**
